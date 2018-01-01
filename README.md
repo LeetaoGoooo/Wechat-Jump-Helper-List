@@ -14,3 +14,7 @@
 [Python版本](https://github.com/wangshub/wechat_jump_game)
 
 [C#版本](https://github.com/Nihiue/JumpHelper)
+
+[PHP版本](https://github.com/metowolf/JumpJumpHelper)
+
+[Kotlin版本](https://github.com/uglyer/wechat_jump_ai_kotlin)

@@ -7,7 +7,9 @@
 
 [Go-AI版本](https://github.com/faceair/youjumpijump)
 
-[Node版本](https://github.com/wotermelon/toJump)
+[Node-Android版本](https://github.com/wotermelon/toJump)
+
+[Node-IOS版本](https://github.com/lqs469/jump)
 
 [Java版本](https://github.com/easyworld/PlayJumpJumpWithMouse)
 
@@ -18,3 +20,4 @@
 [PHP版本](https://github.com/metowolf/JumpJumpHelper)
 
 [Kotlin版本](https://github.com/uglyer/wechat_jump_ai_kotlin)
+
